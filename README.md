@@ -7,6 +7,7 @@
 #### *HTML* *CSS* *Bootstrap*
 ### About
 #### This is a home page intended to lay a base for future installments.
+### Bugs - Project links do not work.  
 #### whi7ee.github.io/portfolio
 ##### Legal
 ######Copyright (c) 2016 Austin J Minnon All Rights Reserved.
