@@ -1,13 +1,22 @@
 h1 {
   text-align: center;
 }
-html {
-  background-color: #B0F0F0;
+
+.container {
+background-color: #B0F0F0;
 }
+
 .pro {
   font-family: cursive;
+  text-align: center;
 }
 
 .texts {
   text-align: center;
+}
+
+.head {
+  float: none;
+  margin-left: 30px;
+  margin-right: 30px;
 }
